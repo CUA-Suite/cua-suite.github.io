@@ -1025,6 +1025,19 @@ body {
   font-family: var(--font-mono);
 }
 
+/* Demo Video */
+.demo-video-section {
+  margin: 1.5rem 0 2rem;
+}
+
+.demo-video {
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 6px 24px rgba(0,0,0,0.12);
+  border: 1px solid rgba(0,0,0,0.08);
+  background: #000;
+}
+
 /* VideoCUA Hero Stats */
 .videocua-hero {
   display: flex;
