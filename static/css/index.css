@@ -250,6 +250,16 @@ body {
   font-weight: 500;
 }
 
+.author-block.lead-author {
+  background: rgba(13, 148, 136, 0.12);
+  border-color: rgba(13, 148, 136, 0.3);
+}
+
+.author-block.lead-author a {
+  font-weight: 700;
+  color: var(--teal) !important;
+}
+
 .author-affiliations {
   display: flex;
   flex-wrap: wrap;
